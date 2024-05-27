@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "name": "Updated Station A",
+        "description": "Updated Inspection for product A",
+        "product": "Updated Product A",
+        "criteria": "Updated Criteria A",
+        "image_url": "http://example.com/updated_image.jpg",
+        "inspection_outcome": "fail"
+    },
+    {
+        "id": "2",
+        "name": "Station B",
+        "description": "Inspection for product B",
+        "product": "Product B",
+        "criteria": "Criteria B",
+        "image_url": "http://example.com/image_b.jpg",
+        "inspection_outcome": "fail"
+    },
+    {
+        "id": "3",
+        "name": "Station C",
+        "description": "Inspection for product C",
+        "product": "Product C",
+        "criteria": "Criteria C",
+        "image_url": "http://example.com/image_c.jpg",
+        "inspection_outcome": "pass"
+    }
+]
